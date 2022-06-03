@@ -1,3 +1,1 @@
-<marquee>yee haw</marquee>
-
-test
+Maintainer of BreakRoomLite
