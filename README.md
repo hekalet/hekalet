@@ -1,1 +1,1 @@
-Maintainer of BreakRoomLite, Evasion, and Liftoff.
+Maintainer of BreakRoomLite and ClickyCloak.
